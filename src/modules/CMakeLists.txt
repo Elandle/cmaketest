@@ -1,0 +1,6 @@
+add_subdirectory(./linear_algebra)
+add_subdirectory(./rng)
+add_subdirectory(./simulate)
+add_subdirectory(./statistics)
+add_subdirectory(./stduse)
+add_subdirectory(./utilities)
